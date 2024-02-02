@@ -1,3 +1,9 @@
+                                                                            AUZUBILLAH MINASHAITAN NIRAJEEM
+                                                   
+                                                   
+                                                   
+                                                   
+                                                   
                                                    ألسلام عليكم ورحمة الله وبركاته  ASSALAMU-ALAIKUM
                                                                                                          
 
