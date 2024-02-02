@@ -1,4 +1,4 @@
-                                                     k### <"Assalamu-Walaikum" width="25"> 👋
+                                                     k### ("Assalamu-Walaikum" width="25") 👋
 
 
 ![logo](https://github.com/KONOK71/KONOK71/blob/main/Cyber%20Raccoon-Stealer.jpg)
