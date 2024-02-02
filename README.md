@@ -67,7 +67,7 @@
 - 📄 Know about my experiences [https://nolink.com](https://nolink.com)
 
 - ⚡ Fun fact ** AN Emperor of Own My Empire**
-<h1> FOLLOW করতে কি টাকা লাগে৷   🙂<h10/>
+<h1> FOLLOW করতে কি টাকা লাগে    🙂<h10/>
 <h1> FOLLOW না করলে U-TURN মারো 😎<h30/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
