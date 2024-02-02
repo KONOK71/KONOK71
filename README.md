@@ -67,8 +67,8 @@
 - 📄 Know about my experiences [https://nolink.com](https://nolink.com)
 
 - ⚡ Fun fact ** AN Emperor of Own My Empire**
-<h1> CAL CHOTE FOLLOW KAR  🙂<h10/>
-<h1> NEHITO PEHLI FORSAT ME NIKAL 😎<h30/>
+<h1> FOLLOW করতে কি টাকা লাগে৷   🙂<h10/>
+<h1> FOLLOW না করলে U-TURN মারো 😎<h30/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/konokolial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="konokolial" height="30" width="40" /></a>
@@ -114,4 +114,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=konok71&" alt="konok71" /></p> 
 
-<h2> THANKS FOR VISIT <h2\>
+<h2> যা লাগবে তারাতারি নিএ ভাগো <h2\>
