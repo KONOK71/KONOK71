@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm KONOK</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A PASSIONATE FRONTEND DEVELOPER FROM BANGLADEH</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.co/images/8be4efc0a8e5bc4903aae00db82cb982/raw"> <img align="left" alt="coding" width="400" src="https://c.tenor.com/CgGUXc-LDc4AAAAM/hacker-pc.gif">
 
