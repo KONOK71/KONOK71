@@ -70,15 +70,11 @@
 <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 
 
-#### A NOOB DEVOLAPAR ( TELEGRAM : https://t.me/Not_found_404_not_responding )
+#### A PROFESSONAL DEVOLAPAR ( TELEGRAM : https://t.me/Not_found_404_not_responding )
 
 
 <br/>
-Skills: PYTHON & WEB DEFACE & WEB SITE DOWN 
 
-- 🔭 I’m currently working on SQLInection 
-- 🌱 I’m currently learning SQLInection 
-- ⚡ Fun fact: I am Emperor
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
