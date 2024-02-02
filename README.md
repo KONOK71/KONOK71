@@ -24,7 +24,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=konok71" alt="konok71" /></a> </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+World%2C+I'm+KONOK+Here;𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳;Respect+KONOK;It's+my+real+github+account;Please+Follow+My+GitHub;Thanks+My+All+Friend;Love+From+Bangladesh)](https://git.io/typing-svg)<br/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+World%2C+I'm+KONOK+HERE;𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾;𝙸𝚃'𝚜+𝙰+EMPIRE;Respect+KONOK;LIVING+IN+GAZA+VIRTUALLY+;Please+Follow+My+GitHub;THANK+YOU+MY+BROTHER;A+PSYCHO+PROGRAMMER)](https://git.io/typing-svg)<br/>
 <br/>
 <br/>
 
