@@ -1,4 +1,4 @@
-                                                     k### ("Assalamu-Walaikum" width="25") 👋
+                                                                        ألسلام عليكم ورحمة الله وبركاته   ASSALAMU-ALAIKU
 
 
 ![logo](https://github.com/KONOK71/KONOK71/blob/main/Cyber%20Raccoon-Stealer.jpg)
