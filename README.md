@@ -1,7 +1,7 @@
-                                         AUZUBILLAH MINASHAITAN NIRAJEEM  أَعُوْذُ بِاللّٰهِ مِنَ الشَّيْطٰانِ الرَّجِيْمِ  
+                                             AUZUBILLAH MINASHAITAN NIRAJEEM  أَعُوْذُ بِاللّٰهِ مِنَ الشَّيْطٰانِ الرَّجِيْمِ  
                                                    
                                                    
-                                             BISMILLAHIRRAHMANIRRAHIM   بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ    
+                                                  BISMILLAHIRRAHMANIRRAHIM   بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ    
                                                 
                                                    
                         ألسلام عليكم ورحمة الله وبركاته  ASSALAMU-ALAIKUM  
