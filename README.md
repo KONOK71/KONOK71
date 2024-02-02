@@ -1,4 +1,4 @@
-                                               AUZUBILLAH MINASHAITAN NIRAJEEM  أَعُوْذُ بِاللّٰهِ مِنَ الشَّيْطٰانِ الرَّجِيْمِ  
+                                             AUZUBILLAH MINASHAITAN NIRAJEEM  أَعُوْذُ بِاللّٰهِ مِنَ الشَّيْطٰانِ الرَّجِيْمِ  
                                                    
                                                    
                                                    
