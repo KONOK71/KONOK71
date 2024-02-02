@@ -79,10 +79,6 @@
 
 
 
-
-#### A PROFESSONAL DEVOLAPAR ( TELEGRAM : https://t.me/Not_found_404_not_responding )
-
-
 <br/>
 
 
