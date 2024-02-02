@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm KONOK</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
+<img align="right" alt="coding" width="400" src="https://media.tenor.co/images/8be4efc0a8e5bc4903aae00db82cb982/raw"> <img align="left" alt="coding" width="400" src="https://c.tenor.com/CgGUXc-LDc4AAAAM/hacker-pc.gif">
+
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=konok71&label=Profile%20views&color=0e75b6&style=flat" alt="konok71" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=konok71" alt="konok71" /></a> </p>
