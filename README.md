@@ -4,7 +4,7 @@
                                           BISMILLAHIRRAHMANIRRAHIM   بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ    
                                                 
                                                    
-                                                       ألسلام عليكم ورحمة الله وبركاته  ASSALAMU-ALAIKUM  
+                                            ألسلام عليكم ورحمة الله وبركاته  ASSALAMU-ALAIKUM  
                                                                                                          
 
 <h1 align="center">Hi 👋, I'm KONOK</h1>
