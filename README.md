@@ -1,4 +1,4 @@
-                                                     k### Assalamu-Walaikum  👋, I am KONOK
+                                                     k### Assalamu-Walaikum  👋
 
 ![logo](https://github.com/KONOK71/KONOK71/blob/main/Cyber%20Raccoon-Stealer.jpg)
 <h1 align="center">Hi 👋, I'm KONOK</h1>
