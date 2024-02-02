@@ -42,6 +42,7 @@
 
 
 <br/>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+World%2C+I'm+KONOK;𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+;𝙸𝚃'𝚜+𝙰+EMPIRE;Remember+ME;NEVER+Mess+Up+With+ME;Do+Your+Job;A+Virtul+HAMAS+Soldier;DON'T+Forget+ME)](https://git.io/typing-svg)<br/>
 <br/>
 <br/>
