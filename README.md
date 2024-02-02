@@ -12,10 +12,7 @@
 &nbsp; 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝙼𝚈 𝙿𝚁𝙾𝙵𝙸𝙻𝙴&nbsp;
 
 <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
-
-  
-  <h3 align="center">A PASSIONATE FRONTEND DEVELOPER FROM BANGLADEH</h3>
-
+ <h3 align="center">A PASSIONATE FRONTEND DEVELOPER FROM BANGLADEH</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.co/images/8be4efc0a8e5bc4903aae00db82cb982/raw"> <img align="left" alt="coding" width="400" src="https://c.tenor.com/CgGUXc-LDc4AAAAM/hacker-pc.gif">
 
 
