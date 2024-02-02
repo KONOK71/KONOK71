@@ -7,18 +7,15 @@
                                                    ألسلام عليكم ورحمة الله وبركاته  ASSALAMU-ALAIKUM
                                                                                                          
 
-
-
-
-
-
-
-![logo](https://github.com/KONOK71/KONOK71/blob/main/Cyber%20Raccoon-Stealer.jpg)
 <h1 align="center">Hi 👋, I'm KONOK</h1>
 <p align="center"><img src="https://img.shields.io/badge/MADE%20IN BANGLADESHI-DEVELOPER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
 
  <p align="middle"> <img src="https://komarev.com/ghpvc/?username=konok71&label=Profile%20views&color=0e75b6&style=flat" alt="konok71" /> </p>
 
+
+
+
+![logo](https://github.com/KONOK71/KONOK71/blob/main/Cyber%20Raccoon-Stealer.jpg)
 
 
 <h3 align="center">
