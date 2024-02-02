@@ -102,10 +102,6 @@
 
 <h1> CAL CHOTE FOLLOW KAR  🙂<h10/>
 <h2> NEHITO PEHLI FORSAT ME NIKAL 😎<h30/>
-<h3>MY SOCIAL MEDIA<h2/>
-
-[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=red&labelColor=black)](https://t.me/Not_found_404_not_responding) <br>
-[![](https://img.shields.io/badge/Facebook-black?logo=Facebook&logoColor=red&labelColor=blue)](https://www.facebook.com/itsmekonok) <br>
 
 
 <h3 align="left">Languages and Tools:</h3>
