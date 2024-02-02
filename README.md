@@ -44,9 +44,9 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+World%2C;+A+PSYCHO+PROGRAMMER+IS+Here;ALSO+A+Virtul+HAMAS+Soldier)](https://git.io/typing-svg)<br/>
-
 <h1> CAL CHOTE FOLLOW KAR  🙂<h10/>
 <h1> NEHITO PEHLI FORSAT ME NIKAL 😎<h30/>
+
 
 <p align="left"> <a href="https://twitter.com/konokolial" target="blank"><img src="https://img.shields.io/twitter/follow/konokolial?logo=twitter&style=for-the-badge" alt="konokolial" /></a> </p>
 
