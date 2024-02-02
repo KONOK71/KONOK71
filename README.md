@@ -1,7 +1,8 @@
-                                                       k### Assalamu-Walaikum  👋, I am KONOK
+                                                     k### Assalamu-Walaikum  👋, I am KONOK
 
 ![logo](https://github.com/KONOK71/KONOK71/blob/main/Cyber%20Raccoon-Stealer.jpg)
 <h1 align="center">Hi 👋, I'm KONOK</h1>
+<p align="center"><img src="https://img.shields.io/badge/MADE%20IN BANGLADESHI-DEVELOPER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
 <h3 align="center">A PASSIONATE FRONTEND DEVELOPER FROM BANGLADEH</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.co/images/8be4efc0a8e5bc4903aae00db82cb982/raw"> <img align="left" alt="coding" width="400" src="https://c.tenor.com/CgGUXc-LDc4AAAAM/hacker-pc.gif">
