@@ -114,4 +114,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=konok71&" alt="konok71" /></p> 
 
-<h2> যা লাগবে তারাতারি নিএ ভাগো <h2\>
+<h2> যা লাগবে তারাতারি নিয়ে ভাগো <h2\>
