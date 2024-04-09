@@ -28,7 +28,7 @@
 
 
 
-![logo](https://github.com/KONOK71/KONOK71/blob/main/Cyber%20Raccoon-Stealer.jpg)
+![logo](https://github.com/KONOK71/KONOK71/blob/main/2024_03_15_23_18_45_1.gif)
 
 
 <h3 align="center">
