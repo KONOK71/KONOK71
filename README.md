@@ -28,7 +28,7 @@
 
 
 
-![logo](https://github.com/KONOK71/KONOK71/blob/main/2024_03_15_23_18_45_1.gif)
+![logo](https://github.com/LOSER-L-CLAY/LOSER-L-CLAY/blob/main/video_2024-04-17_13-12-01-ezgif.com-optimize.gif)
 
 
 <h3 align="center">
