@@ -12,7 +12,7 @@
                                                                                                          
 
 <h1 align="center">Hi 👋, I'm L </h1>
-<p align="center"><img src="https://img.shields.io/badge/A PSYCHO PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+<p align="center"><img src="https://img.shields.io/badge/HEY FAN-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
 
  <p align="middle"> <img src="https://komarev.com/ghpvc/?username=konok71&label=Profile%20views&color=0e75b6&style=flat" alt="L" /> </p>
 
@@ -21,7 +21,7 @@
 
 <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 
-&nbsp; 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝙼𝚈 𝙿𝚁𝙾𝙵𝙸𝙻𝙴&nbsp;
+&nbsp; 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 MY FANS&nbsp;
 
 <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 
