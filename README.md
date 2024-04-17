@@ -44,24 +44,6 @@
 
 
 
-- 🔭 I’m currently working on **BUG BOUNTY**
-
-- 🌱 I’m currently learning **BUG HUNTING**
-
-- 👯 I’m looking to collaborate on **With ME**
-
-- 🤝 I’m looking for help with **OwnSelf**
-
-- 👨‍💻 All of my projects are available at [https://nolink.com](https://nolink.com)
-
-- 📝 I regularly write articles on [https://nolink.com](https://nolink.com)
-
-- 💬 Ask me about **Will You Marry Me?**
-
-- 📫 How to reach me ***
-
-- 📄 Know about my experiences [https://nolink.com](https://nolink.com)
-
 - ⚡ Fun fact ** AN Emperor of Own My Empire**
 
 
