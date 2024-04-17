@@ -11,10 +11,10 @@
                                                 
                                                                                                          
 
-<h1 align="center">Hi 👋, I'm KONOK</h1>
+<h1 align="center">Hi 👋, I'm L </h1>
 <p align="center"><img src="https://img.shields.io/badge/A PSYCHO PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
 
- <p align="middle"> <img src="https://komarev.com/ghpvc/?username=konok71&label=Profile%20views&color=0e75b6&style=flat" alt="konok71" /> </p>
+ <p align="middle"> <img src="https://komarev.com/ghpvc/?username=konok71&label=Profile%20views&color=0e75b6&style=flat" alt="L" /> </p>
 
 
 <h3 align="center">
@@ -62,19 +62,11 @@
 
 - 💬 Ask me about **Will You Marry Me?**
 
-- 📫 How to reach me **cyber.sorcerer.bd@gmail.com**
+- 📫 How to reach me ***
 
 - 📄 Know about my experiences [https://nolink.com](https://nolink.com)
 
 - ⚡ Fun fact ** AN Emperor of Own My Empire**
-<h1> FOLLOW করতে কি টাকা লাগে    🙂<h10/>
-<h1> FOLLOW না করলে U-TURN মারো 😎<h30/>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/konokolial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="konokolial" height="30" width="40" /></a>
-<a href="https://fb.com/itismekonok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="itismekonok" height="30" width="40" /></a>
-<a href="https://instagram.com/olialkibriakonok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="olialkibriakonok" height="30" width="40" /></a>
-</p>
 
 
 
