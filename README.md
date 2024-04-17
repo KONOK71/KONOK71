@@ -12,7 +12,7 @@
                                                                                                          
 
 <h1 align="center">Hi 👋, I'm L </h1>
-<p align="center"><img src="https://img.shields.io/badge/HEY FAN-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+<p align="center"><img src="https://img.shields.io/badge/MY FANS ARE LEGION-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
 
  <p align="middle"> <img src="https://komarev.com/ghpvc/?username=konok71&label=Profile%20views&color=0e75b6&style=flat" alt="L" /> </p>
 
