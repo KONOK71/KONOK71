@@ -46,9 +46,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=YOU-KNOW+L%2C;+L+NEVER+FORGET+,NEVER+FORGIVE;)](https://git.io/typing-svg)<br/>
 
 
-- 🔭 I’m currently working on **SQLInjection**
+- 🔭 I’m currently working on **BUG BOUNTY**
 
-- 🌱 I’m currently learning **SQLInjection**
+- 🌱 I’m currently learning **BUG HUNTING**
 
 - 👯 I’m looking to collaborate on **With ME**
 
