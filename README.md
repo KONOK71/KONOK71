@@ -43,7 +43,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=konok71" alt="konok71" /></a> </p>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=YOU-KNOW+L%2C;+L+NEVER+FORGET,+NEVER+FORGIVE;)](https://git.io/typing-svg)<br/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=YOU+KNOW+L%2C;+L+NEVER+FORGET,+NEVER+FORGIVE;)](https://git.io/typing-svg)<br/>
 
 
 - 🔭 I’m currently working on **BUG BOUNTY**
