@@ -31,12 +31,6 @@
 ![logo](https://github.com/LOSER-L-CLAY/LOSER-L-CLAY/blob/main/video_2024-04-17_13-12-01-ezgif.com-optimize.gif)
 
 
-<h3 align="center">
-
-
- <h3 align="center">L IS HERE </h3>
-<img align="right" alt="coding" width="400" src="https://media.tenor.co/images/8be4efc0a8e5bc4903aae00db82cb982/raw"> <img align="left" alt="coding" width="400" src="https://c.tenor.com/CgGUXc-LDc4AAAAM/hacker-pc.gif">
-
 
 
 
