@@ -46,8 +46,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+World%2C;+A+PSYCHO+CYBER+EXPERT+IS+Here;)](https://git.io/typing-svg)<br/>
 
 
-<p align="left"> <a href="https://twitter.com/konokolial" target="blank"><img src="https://img.shields.io/twitter/follow/konokolial?logo=twitter&style=for-the-badge" alt="konokolial" /></a> </p>
-
 - 🔭 I’m currently working on **SQLInjection**
 
 - 🌱 I’m currently learning **SQLInjection**
@@ -106,4 +104,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=konok71&" alt="konok71" /></p> 
 
-<h2> যা লাগবে তারাতারি নিয়ে ভাগো <h2\>
+
